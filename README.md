@@ -1,4 +1,4 @@
-# 🎬 Netflix Movie Dataset — Exploratory Data Analysis (EDA)
+#  Netflix Movie Dataset — Exploratory Data Analysis (EDA)
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python)
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?logo=pandas)
@@ -10,7 +10,7 @@ A comprehensive Exploratory Data Analysis (EDA) project on a Netflix movie datas
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 netflix-eda/
@@ -22,7 +22,7 @@ netflix-eda/
 
 ---
 
-## 📊 Dataset Overview
+##  Dataset Overview
 
 The dataset contains **9,827 rows** and **9 columns** with details about movies available on Netflix.
 
@@ -40,7 +40,7 @@ The dataset contains **9,827 rows** and **9 columns** with details about movies 
 
 ---
 
-## 🛠️ Data Cleaning & Preprocessing
+##  Data Cleaning & Preprocessing
 
 The following preprocessing steps were applied to make the data analysis-ready:
 
@@ -60,7 +60,7 @@ The following preprocessing steps were applied to make the data analysis-ready:
 
 ---
 
-## 🔍 Key Questions Explored
+##  Key Questions Explored
 
 | # | Question | Answer |
 |---|---|---|
@@ -72,7 +72,7 @@ The following preprocessing steps were applied to make the data analysis-ready:
 
 ---
 
-## 📈 Visualizations
+##  Visualizations
 
 **1. Genre Distribution**
 A horizontal count plot showing the frequency of each genre across the dataset. Drama is the dominant genre, while Western, Documentary, and TV Movie appear least frequently.
@@ -85,7 +85,7 @@ A histogram of release years shows a right-skewed distribution — very few movi
 
 ---
 
-## 🧰 Libraries Used
+##  Libraries Used
 
 ```python
 import numpy as np
@@ -125,7 +125,7 @@ import seaborn as sns
 
 ---
 
-## 💡 Insights Summary
+##  Insights Summary
 
 - **Drama, Comedy, and Action** are the three most produced genres on Netflix.
 - **Modern movies dominate** the platform — the majority were released after 2000.
@@ -135,7 +135,7 @@ import seaborn as sns
 
 ---
 
-## 🙋 Author
+##  Author
 
 **Shiva Sankar**
 Feel free to connect at sontyanasivasankar@gmail.com or raise issues for discussion!
