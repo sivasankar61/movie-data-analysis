@@ -138,10 +138,7 @@ import seaborn as sns
 ## 🙋 Author
 
 **Shiva Sankar**
-Feel free to connect or raise issues for discussion!
+Feel free to connect at sontyanasivasankar@gmail.com or raise issues for discussion!
 
 ---
 
-## 📄 License
-
-This project is open-source and available under the [MIT License](LICENSE).
